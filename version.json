@@ -1,14 +1,14 @@
 {
   "android": {
-    "minimumVersion": "1.1.0",
-    "latestVersion": "1.2.0",
+    "minimumVersion": "1.0.0",
+    "latestVersion": "1.0.0",
     "forceUpdate": false,
     "updateUrl": "https://play.google.com/store/apps/details?id=com.yourapp",
     "message": "A new version is available with bug fixes and improvements."
   },
   "ios": {
     "minimumVersion": "1.0.0",
-    "latestVersion": "1.2.0",
+    "latestVersion": "1.0.0",
     "forceUpdate": false,
     "updateUrl": "https://apps.apple.com/app/idXXXXXXXXX",
     "message": "A new version is available with bug fixes and improvements."
